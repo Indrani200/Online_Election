@@ -1,0 +1,1 @@
+console.log("Welcome to Rithik's Voting application");

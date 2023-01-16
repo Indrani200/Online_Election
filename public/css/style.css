@@ -1,0 +1,6 @@
+.option-item:hover .delete-icon {
+    display: block;
+  }
+body{
+    background-color: lemonchiffon;
+}  
